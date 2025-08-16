@@ -21,25 +21,16 @@ This repository contains **five separate C# console applications** demonstrating
 ## 📂 Project Structure
 
 dcit318-assignment3-11118701/
-│
-├── Question1/
-│ └── (Finance Management classes & interfaces)
-│
-├── Question2/
-│ └── (Healthcare repository, Patient & Prescription classes)
-│
-├── Question3/
-│ └── (Inventory items, repository & custom exceptions)
-│
-├── Question4/
-│ └── (Student classes, exceptions & result processor)
-│
-├── Question5/
-│ └── (Inventory record, entity interface & JSON logger)
-│
-├── Program.cs # Menu-driven entry point
-├── dcit318-assignment3-11118701.csproj
-└── README.md
+dcit318-assignment3-11118701/
+ ├── Question1/   # Finance Management classes & interfaces
+ ├── Question2/   # Healthcare repository, Patient & Prescription classes
+ ├── Question3/   # Inventory items, repository & custom exceptions
+ ├── Question4/   # Student classes, exceptions & result processor
+ ├── Question5/   # Inventory record, entity interface & JSON logger
+ ├── Program.cs   # Menu-driven entry point
+ ├── dcit318-assignment3-11118701.csproj
+ └── README.md
+
 
 
 
