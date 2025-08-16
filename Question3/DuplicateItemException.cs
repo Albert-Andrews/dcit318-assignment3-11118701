@@ -1,1 +1,9 @@
-// TODO: Implement this file for Question3
+using System;
+
+namespace Question3
+{
+    public class DuplicateItemException : Exception
+    {
+        public DuplicateItemException(string message) : base(message) { }
+    }
+}

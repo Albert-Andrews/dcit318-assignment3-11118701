@@ -1,1 +1,9 @@
-// TODO: Implement this file for Question3
+using System;
+
+namespace Question3
+{
+    public class ItemNotFoundException : Exception
+    {
+        public ItemNotFoundException(string message) : base(message) { }
+    }
+}
