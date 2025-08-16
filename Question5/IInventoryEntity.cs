@@ -1,1 +1,8 @@
-// TODO: Implement this file for Question5
+namespace Question5
+{
+    // Marker interface for inventory entities
+    public interface IInventoryEntity
+    {
+        int Id { get; }
+    }
+}

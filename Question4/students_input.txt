@@ -1,0 +1,4 @@
+1, Alice Mensah, 85
+2, Kojo Owusu, 74
+3, Ama Dede, 59
+4, John Menson, 45

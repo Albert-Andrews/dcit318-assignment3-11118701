@@ -1,0 +1,4 @@
+Alice Mensah (ID: 1) - Score: 85, Grade: A
+Kojo Owusu (ID: 2) - Score: 74, Grade: B
+Ama Dede (ID: 3) - Score: 59, Grade: D
+John Menson (ID: 4) - Score: 45, Grade: F

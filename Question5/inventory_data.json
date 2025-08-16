@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Stapler",
+    "Quantity": 12,
+    "DateAdded": "2025-08-16T02:02:22.602199+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Printer Paper (500)",
+    "Quantity": 20,
+    "DateAdded": "2025-08-16T02:02:22.639699+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Whiteboard Marker",
+    "Quantity": 35,
+    "DateAdded": "2025-08-16T02:02:22.639702+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Laptop Stand",
+    "Quantity": 5,
+    "DateAdded": "2025-08-16T02:02:22.639703+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "USB-C Cable",
+    "Quantity": 18,
+    "DateAdded": "2025-08-16T02:02:22.639703+00:00"
+  }
+]

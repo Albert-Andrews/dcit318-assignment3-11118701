@@ -1,0 +1,14 @@
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/bin/Debug/net8.0/dcit318-assignment3-11118701
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/bin/Debug/net8.0/dcit318-assignment3-11118701.deps.json
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/bin/Debug/net8.0/dcit318-assignment3-11118701.runtimeconfig.json
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/bin/Debug/net8.0/dcit318-assignment3-11118701.dll
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/bin/Debug/net8.0/dcit318-assignment3-11118701.pdb
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/dcit318-assignment3-11118701.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/dcit318-assignment3-11118701.AssemblyInfoInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/dcit318-assignment3-11118701.AssemblyInfo.cs
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/dcit318-assignment3-11118701.csproj.CoreCompileInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/dcit318-assignment3-11118701.dll
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/refint/dcit318-assignment3-11118701.dll
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/dcit318-assignment3-11118701.pdb
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/dcit318-assignment3-11118701.genruntimeconfig.cache
+/Users/albertquaye/Downloads/dcit318-assignment3-11118701/obj/Debug/net8.0/ref/dcit318-assignment3-11118701.dll
