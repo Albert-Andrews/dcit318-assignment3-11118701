@@ -1,11 +1,1 @@
-﻿using Question1;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Run Question 1 Demo
-        var app = new FinanceApp();
-        app.Run();
-    }
-}
+// TODO: Add menu to run Question 1-5 implementations.
